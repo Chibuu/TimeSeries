@@ -1,0 +1,67 @@
+Data:
+https://catalog.data.gov/dataset/crimes-2001-to-present-398a4
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+
+*** Data on Population of Chicago ***
+https://www.census.gov/mycd/
+*** To do ***
+20/03/2017
+- Come up with more questions.
+- Read reports.
+
+We are missing a question, plot. 
+
+******************************
+*** Questions (to answere) ***
+******************************
+
+- Effects of policeman going up?
+- Effects of policeman going down?
+- Predict location of crime before it happens
+- 
+
+
+------------------------------------------------------------------------------------
+Notes on the Drawback Seciton:
+
+All points raised on this secion are true from a general point of view but we can cut the draw backs. Of course that in general the more police going around the chances of a crime being caught increases but not all probabilities of recording a crime is highly correlated or correlated at all roberies are going to be report no matter if there is a police man in the zone or not. 
+---------------------------------------------------------------------------------------
+ - Chicago has a long history of organized crime, 
+
+**********************************************
+*** Time Line of Organize crime in Chicago ***
+**********************************************
+[https://en.wikipedia.org/wiki/Timeline_of_organized_crime_in_Chicago#2000s]
+
+
+1990s – Operation Silver Shovel
+Mar. 21, 1990 – Outfit gambling boss of west suburban Elmhurst, Donald Angelini, who had operated a highly successful sports betting empire along with Dominic Cortina, was arrested and sentenced to prison. Each mobster got 21 months in prison and was ordered to pay for the $1,210-a-month cost of his incarceration.
+May 27, 1992 – Tony Accardo, Chicago's Boss of Bosses, died of congestive heart failure after almost 50 years at the helm of the Outfit.[207]
+1994 – Operation Greylord trials concluded.
+1996 – "Super lawyer" Sidney Korshak died.[116]
+Sept. 1997 – Feared hitman Harry Aleman, nephew of one-time Outfit frontman Joe Ferriola, was retried for the murder of Teamster William Logan and sent to prison, based on testimony by former Outfit attorney Robert Cooley and evidence which showed the first trial would never have come back with a guilty verdict, because the judge in the first case took a $10,000 bribe to acquit Aleman. So, the U.S. Constitution's "Double Jeopardy" clause would not have been in play after the first trial's "Not Guilty" verdict. This was the first time in U.S. history someone has been retried for the crime of capital murder after being acquitted.
+July 24, 1998 – One of the "wiliest and slickest crooks" in the Chicago Outfit, high ranking Greek descendant Gus Alex died of a heart attack in federal prison.
+Mar. 28, 1999 – Outfit front-boss Angelo J. "The Hook" LaPietra died from natural causes.
+Dec. 23, 1999 – Ronald Jarrett, a mob lieutenant to John "Johnny Apes" Monteleone, of the South Side 26th Street crew, is shot while going to a funeral. It is the first mob hit in Chicago in seven years.
+2000s[edit]
+Jan. 25, 2000 – Ronald Jarrett died from the gunshot wounds he sustained in late 1999.
+Jan. 15, 2001 – William Hanhardt, the Chicago Police Department's former Chief of Detectives, was indicted by a federal grand jury on charges of masterminding a ring of Outfit-related thieves who stole $4.85 million in jewels in heists across the nation.[208]
+Nov. 20, 2001 – Highly feared Outfit "Juice Loan" operator and enforcer Anthony "the Hatch" Chiaramonti was shot five times and killed after a vehicle pulled-up beside him and the loanshark had words with someone inside the vehicle, outside a Brown's Chicken & Pasta in south suburban Lyons, Illinois. The murder has not been solved.
+Sept. 6, 2003 – One-time Las Vegas casino overseer and alleged Outfit "hitman", downgraded to an all-around Outfit utility player after being removed from his job in Las Vegas, Marshall Caifano died of natural causes. He was 92 years old.
+Apr. 25, 2005 – The U.S. Department of Justice's Operation Family Secrets trial indicted 15 Outfit top mobsters and associates under the Racketeer Influenced and Corrupt Organizations Act (RICO). Joseph "The Clown" Lombardo, a top Outfit leader, and Frank "the German" Schweihs evaded their indictments and became fugitives for a time.
+Sept. 21, 2005 – After having been extradited from Greece by the Federal Bureau of Investigation, in 1989, where he fled to, reputed Outfit boss Albert Tocco died at the federal prison at Terra Haute, Indiana, after having a stroke, while serving a 200-year prison sentence for racketeering, conapiracy, extortion and tax fraud.
+Dec. 16, 2005 – Outfit "hitman", muscleman and fugitive from justice in the Operation Family Secrets trial, Frank Schweihs was apprehended in Berea, Kentucky.
+Jan. 13, 2006 – Outfit boss and fugitive from justice in the Operation Family Secrets trial, Joseph Lombardo, Sr., was apprehended in Elmwood Park, Illinois. FBI agents found him while a mob "person of interest" was under surveillance, most likely John "No Nose" DiFronzo, but this has yet to be confirmed.
+June 14, 2006 – Former city clerk James Laski was sentenced to 24 months in prison after admitting he pocketed tens of thousands of dollars in bribes as part of the, "Hired Truck Program".
+June 15, 2006 – A 26-year-old member of the Vice Lords on Chicago's West Side was arrested. Reportedly, he had information on where the supply of fentanyl-laced heroin was coming from which had already killed at least 60 people.[209]
+Aug. 31, 2006 – Mobster Anthony Zizzo disappeared. His car was found in Melrose Park, Illinois. There was no sign of foul play, because his body has never been found.
+June 18, 2007 – Aided by RICO, the Operation Family Secrets trial began in Chicago.
+Sept. 10, 2007 – The "Family Secrets" trial's anonymous jury found guilty verdicts on all counts of the five defendants where there was corroborating evidence against the defendants and not just witness testimony against the defendants. The five defendants were Joseph Lombardo, Sr., James Marcello, Frank Calabrese, Sr., Paul Schiro and Anthony Doyle.[210]
+July 23, 2008 – Alleged Outfit "hitman" and muscleman Frank Schweihs died of cancer.
+Sept. 9, 2008 – Alleged Outfit boss Nicholas Ferriola, son of one-time Outfit frontman Joe Ferriola, was convicted of running a gambling operation and of extorting a Chicago pizza chain. He was given a three-year prison sentence.
+2009 – High-ranking Chicago Outfit members Joseph Lombardo and James Marcello were sentenced to life imprisonment, because of their convictions in the "Family Secrets" trial.
+Apr. 28, 2009 – Deputy U.S. Marshal John T. Ambrose was convicted of leaking secret information to the Chicago mob about federal, protected witness, mobster Nicholas Calabrese in the Chicago organized crime investigation, Operation Family Secrets.[211] Ambrose was charged with theft of U.S. Justice Department property, disclosing confidential information and lying to federal agents who questioned him about the leak. He was however acquitted of two charges of lying to federal agents. Ambrose is the son of disgraced former CPD Officer Thomas Ambrose, who was convicted of taking bribes from area drug dealers as part of the Chicago Police Department's "Marquette Ten" scandal, in the 1980s.
+2010s[edit]
+May 15, 2010 – Hitman Harry Aleman died in state prison during his 300-year sentence, after being retried for the murder of Teamster William Logan, for which, at first, Aleman was acquitted. In a historic U.S. Supreme Court ruling following the first trial, the U.S. Constitution's "Double Jeopardy" clause, which originally forbad Aleman to be retried for the murder, was found not to apply in his first court case, because of judicial corruption in the first trial. So, Aleman was retried and found guilty.
+Dec. 25, 2012 – Convicted in the deaths of six men and one woman during the Operation Family Secrets trial, Outfit enforcer and loanshark Frank Calabrese, Sr., age 75, died at the Butner Federal Correctional Complex, in North Carolina, while serving a life sentence.[212]
+Feb. 27, 2013 - Mob enforcer Mario Rainone was found guilty by a federal jury on a charge of a felon in the possession of a firearm. Because he is a habitual criminal, he faces at least 15 years in prison. He was to be sentenced June 5, 2013.[213]
