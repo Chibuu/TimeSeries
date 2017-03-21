@@ -1,0 +1,31 @@
+ \documentclass[a6paper,11pt]{memoir}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{csquotes}% Recommended
+
+\usepackage[style=authoryear-ibid,backend=biber]{biblatex}
+
+\addbibresource{sample.bib}% Syntax for version >= 1.2
+
+\title{A simple example showing how to create Harvard style referencing in LaTeX}
+\author{WriteLaTeX}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+The following examples show how to produce Harvard style referencing using biblatex.
+\end{abstract}
+
+\section*{Citation examples}
+
+\begin{enumerate}
+\item A citation command in parentheses: \parencite{Smith:2012qr}.
+\item A citation command for use in the flow of text: As \textcite{Smith:2013jd} said \dots
+\item A citation command which automatically switches style depending on location and the option setting in the package declaration (see line 12 in the LaTeX source code). In this case, it produces a citation in parentheses: \autocite{Other:2014ab}.
+\end{enumerate}
+
+\printbibliography
