@@ -1,25 +1,3 @@
-
----
- \documentclass[a6paper,11pt]{memoir}
-Title: 'Predictive Policing in Chicago '
-author:
-- Chibueze Ukachi^1^
-- Alejandro Angeli Ayello^1^
-include-before: ^1^ LTS2, EPFL, Switzerland
-date: \today
-numbersections: true
-lang: en
-header-includes:
-- \hypersetup{colorlinks=true,allcolors=blue}
-
----
-
-\begin{center}
-Predictive Policing in Chicago
-\end{center}
-
-
-
 Hey man,
 
 I found an absolutely fantastic dataset that I think you'll be interested in. It's about the crimes in Chicago from 2001 to present day
@@ -58,8 +36,8 @@ y - axis crime
 
 Homicides per neighbourhoods
 
-police presence and #rate of crime 
-police presence and arrest - discriminatory police, probable cause
+#police presence and #rate of crime
+#police presence and arrest - discriminatory police, probable cause
 
 software available for free but we ask that investment made in hotspot areas
 
@@ -69,12 +47,21 @@ crim
 Predicting crime in Chicago
 
 predict where crime will take place via hotspot pocling
-2001 - 2013 train,
+2001 - 2013 train, 
 test model - 2014- 2017
 
 Criminologists - Anthony Braga and David Weisburd  - Hotspot  policiting
 
-Paper Policing Problem Places: Crime Hot Spots and Effective Prevention 
+Paper
+Policing 
+Problem 
+Places: 
+Crime 
+Hot 
+Spots 
+and 
+Effective 
+Prevention 
 
 Idea - crime is not spread evenly throughout geographic space but rather concentrated in specific areas
 (clusters of crime ) we know bars, clubs, pulic tranport hubs have high propensities for crime occurencs.
@@ -83,47 +70,26 @@ page 18
 
 
 
-## Administration
+% note in report, not dealing with arrest rate or crime rate as they are population dependent
 
-* People involved
-	* Student: Chibueze Ukachi, \texttt{chibueze.ukachi@epfl.ch}
-	* Supervisor: Michaël Defferrard, \texttt{michael.defferrard@epfl.ch}
-	* Professor: Pierre Vandergheynst, \texttt{pierre.vandergheynst@epfl.ch}
-* Dates
-	* Project duration: 20.02 - 02.06.2017 (14 weeks)
-	* Delivery of the report to the lab: 09.06.2017
-	* Grades to be given to the Registar's office: 23.06.2017
-* Amount of work: 10 ECTS (1/3 of a semester)
-* Evaluation: A Jupyter notebook which explains (i) the problem, (ii) the
-  solution and, (iii) the results. Produced at the end of the project, no
-  presentation required.
-* Meeting of ~1h every week
-* Repository: <https://lts2.epfl.ch/gitlab/michael.defferrard/fma-baselines>
-	* Every file produced during the project should be in there.
-* Dataset: Free Music Archive
-	* Code & data: <https://github.com/mdeff/fma>
-	* Paper: <https://arxiv.org/abs/1612.01840>
-* The results obtained during this project will hopefully be integrated in the above paper.
-	* ISMIR paper deadline: abstract April 21, full paper April 28
+B. This could be because increase the number of police cars act as deterrent to criminals as there is a constant law enforcement presence; therefore, the propensity for crime will decrease.
 
-# References
+C. This could be because the reduced the number of police cars empowers bold criminals crimes as they are less likely to be caught
 
-
-[^fn1] Some text in which I cite an author.
-
-[^fn2] More text. Another citation.
-
-[^fn3] What is this? Yet *another* citation?
+D. This is plausible if reducing the presence of law enforcement officials is complemented by community investment initiatives such as that of the non-profit Local Initiatives Support Corporation (LISC)
 
 
 
+presence if the decreaseInvestments in local community...
 
-[^fn1]: So Chris Krycho, "Not Exactly a Millennium," chriskrycho.com, July 22,
-    2015, http://www.chriskrycho.com/2015/not-exactly-a-millennium.html
-    (accessed July 25, 2015), ¶6.
+means that there especially in low-income neighbourhood hotspots... this could be because
+.. D
 
-[^fn2]: Contra Krycho, ¶15, who has everything *quite* wrong.
+We believe that the most logical situation is x and aim to show this quantitiatively in this report.
 
-[^fn3]: ibid say whattt update.
+
+ and check the distribution of incidents per day, week and month to see if there is a normal distribution.
+
+This is emphasised by the fact that there has been a recent trend towards "hot spot police". which means...
 
 
